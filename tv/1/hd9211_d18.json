@@ -76,10 +76,50 @@
 {"url":"https://zthaa.top/thzx/th.json","name":"挺好专享"},
 {"url":"https://zthaa.top/th/api.json","name":"挺好"},
 
-{"url":"https://gitee.com/lsc800416/tvbox/master/顺.json","name":"顺财"},
- 
- 
+{"url":"https://lyrhub.github.io/tvbox-search/searchable.json","name":"searchable"},
 
+
+
+//20260705
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly@main/datas/lz.json","name":"GodLike631_lz"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly@main/datas/local_config.json","name":"GodLike631_local"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly@main/datas/cnb.json","name":"GodLike631_cnb"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/test@main/datas/cnb.json","name":"GodLike631_cnb"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly_me@main/datas/lz.json","name":"GodLike631_lz"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly_me@main/datas/cnb.json","name":"GodLike631_cnb"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly_18@main/datas/cnb.json","name":"GodLike631_cnb"},
+{"url":"https://fastly.jsdelivr.net/gh/GodLike631/Ly_18@main/datas/蝴蝶影视纯净版kay.json","name":"蝴蝶影视纯净版kay"},
+{"url":"https://fastly.jsdelivr.net/gh/25175/tvyuan@master/tvbox.json","name":"25175_tvbox"},
+{"url":"https://fastly.jsdelivr.net/gh/25175/tvyuan@master/tvbox_collect.json","name":"25175_tvbox_collect"},
+{"url":"https://fastly.jsdelivr.net/gh/25175/tvyuan@master/tvbox_full.json","name":"25175_tvbox_full"},
+{"url":"https://fastly.jsdelivr.net/gh/Visupervi/TVBOX-AUTO@main/dist/tvbox.json","name":"Visupervi_tvbox"},
+{"url":"https://fastly.jsdelivr.net/gh/Basic-yao/TVBox@main/yao.json","name":"Basic-yao_王二小放牛娃"},
+{"url":"https://fastly.jsdelivr.net/gh/Basic-yao/TVBox@main/yao.txt","name":"Basic-yao_王二小放牛娃"},
+{"url":"https://fastly.jsdelivr.net/gh/1072103612/eggtv@main/jsm_backup.json","name":"eggtv-jsm_backup"},
+{"url":"https://fastly.jsdelivr.net/gh/1072103612/eggtv@main/tvbox_config.json","name":"eggtv-tvbox"},
+{"url":"https://fastly.jsdelivr.net/gh/1072103612/eggtv@main/tvbox_config_local.json","name":"eggtv-tvbox"},
+
+
+
+//20260704
+{"url":"https://fastly.jsdelivr.net/gh/AudiHub/WanXiang-Release@main/TVbox","name":"AudiHub_裤佬"},
+{"url":"https://fastly.jsdelivr.net/gh/nt2026xp/tv@main/tv.json","name":"nt2026xp_tv"},
+{"url":"https://fastly.jsdelivr.net/gh/xixu-me/tvbox-json-monitor@main/data/tvbox.json","name":"xixu-me_tvbox"},
+{"url":"https://fastly.jsdelivr.net/gh/xinloves-ops/tvbox@main/config.json","name":"xinloves-ops_config"},
+{"url":"https://fastly.jsdelivr.net/gh/8qNvKr/TV@main/Live.json","name":"8qNvKr_Live"},
+{"url":"https://fastly.jsdelivr.net/gh/mins0n/mybox@main/tvbox.json","name":"mins0n_tvbox"},
+{"url":"https://fastly.jsdelivr.net/gh/mins0n/mybox@main/tvbox","name":"mins0n_tvbox"},
+{"url":"https://fastly.jsdelivr.net/gh/mins0n/mybox@main/mybox.json","name":"mins0n_mybox"},
+{"url":"https://fastly.jsdelivr.net/gh/mins0n/mybox@main/caiji.json","name":"mins0n_caiji"},
+{"url":"https://fastly.jsdelivr.net/gh/Shuibeng2023/tvbox@main/FongMi.json","name":"Shuibeng2023_FongMi"},
+{"url":"https://fastly.jsdelivr.net/gh/liuzzh1971/tvbox-config@main/tvbox.json","name":"liuzzh1971_tvbox"},
+{"url":"https://fastly.jsdelivr.net/gh/liuzzh1971/tvbox-config@main/tvbox_fixed.json","name":"liuzzh1971_tvbox"},
+
+
+
+
+{"url":"https://fastly.jsdelivr.net/gh/my521jf/my521jf.github.io@main/abc123.json","name":"my521jf_abc123"},
+{"url":"https://fastly.jsdelivr.net/gh/my521jf/my521jf.github.io@main/tv.json","name":"my521jf_tv"},
 {"url":"https://fastly.jsdelivr.net/gh/niuber/niuber@main/tvbox/api.json","name":"niuber_api"},
 {"url":"https://fastly.jsdelivr.net/gh/sck03407/TVbox@main/TV4.json","name":"sck03407_TV4"},
 {"url":"https://fastly.jsdelivr.net/gh/guru2016/tvbox-pro@main/my_tvbox.json","name":"guru2016"},
@@ -96,11 +136,6 @@
 {"url":"https://fastly.jsdelivr.net/gh/zzq1234567890/tvbox1@main/ok.json","name":"zzq1234567890_ok"},
 {"url":"https://fastly.jsdelivr.net/gh/zzq1234567890/tvbox1@main/xing.json","name":"zzq1234567890_xing"},
 {"url":"https://fastly.jsdelivr.net/gh/zzq1234567890/tvbox1@main/放牛娃.json","name":"zzq1234567890_放牛娃"},
-{"url":"https://fastly.jsdelivr.net/gh/25175/tvyuan@master/tvbox.json","name":"25175_tvbox"},
-{"url":"https://fastly.jsdelivr.net/gh/25175/tvyuan@master/tvbox_collect.json","name":"25175_tvbox_collect"},
-{"url":"https://fastly.jsdelivr.net/gh/25175/tvyuan@master/tvbox_full.json","name":"25175_tvbox_full"},
-{"url":"https://fastly.jsdelivr.net/gh/Basic-yao/TVBox@main/yao.json","name":"Basic-yao_王二小放牛娃"},
-{"url":"https://fastly.jsdelivr.net/gh/Basic-yao/TVBox@main/yao.txt","name":"Basic-yao_王二小放牛娃"},
 {"url":"https://fastly.jsdelivr.net/gh/FLAG12321/tvboxresource@master/merged.json","name":"FLAG12321_merged"},
 {"url":"https://fastly.jsdelivr.net/gh/SH2413/TVBOX-XIANLU@main/tvbox.json","name":"SH2413_tvbox"},
 {"url":"https://fastly.jsdelivr.net/gh/DodgeZhang/tvbox@main/OK/m.json","name":"DodgeZhang_OK"},
@@ -176,9 +211,6 @@
 {"url":"https://fastly.jsdelivr.net/gh/frxz751113/IPTVzb1@main/vip_tvbox.json","name":"frxz751113-vip"},
 {"url":"https://fastly.jsdelivr.net/gh/liuzzh1971/tvbox-config@main/tvbox.json","name":"liuzzh1971-tvbox"},
 {"url":"https://fastly.jsdelivr.net/gh/SakuraByteCore/subHub@main/tvbox.json","name":"SakuraByteCore-tvbox"},
-{"url":"https://fastly.jsdelivr.net/gh/1072103612/eggtv@main/jsm_backup.json","name":"eggtv-jsm_backup"},
-{"url":"https://fastly.jsdelivr.net/gh/1072103612/eggtv@main/tvbox_config.json","name":"eggtv-tvbox"},
-{"url":"https://fastly.jsdelivr.net/gh/1072103612/eggtv@main/tvbox_config_local.json","name":"eggtv-tvbox"},
 {"url":"https://fastly.jsdelivr.net/gh/shenghan99-max/K-TV@main/hanXC.json","name":"shenghan99-max_hanXC"},
 {"url":"https://fastly.jsdelivr.net/gh/aotian888666-prog/my-tvbox@main/index.json","name":"aotian888666_index"},
 
@@ -789,8 +821,11 @@
 {"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/1/api.json","name":"zengjian03_1"},
 {"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/2/api.json","name":"zengjian03_2"},
 {"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/3/api.json","name":"zengjian03_3"},
-{"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/4/api.json","name":"zengjian03_4"},
-{"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/5/api.json","name":"zengjian03_5"},
+{"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/3/影视.json","name":"zengjian03_影视"},
+{"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/我的/api.json","name":"zengjian03_api"},
+{"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/我的/js.json","name":"zengjian03_js"},
+{"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/我的/py.json","name":"zengjian03_py"},
+{"url":"https://fastly.jsdelivr.net/gh/zengjian03/han@master/aowu.json","name":"zengjian03_py"},
 
 
 
@@ -1429,6 +1464,7 @@
 {"url":"https://fastly.jsdelivr.net/gh/xc106346/tvbox@main/005.json","name":"xc106346_005"},
 {"url":"https://fastly.jsdelivr.net/gh/xc106346/tvbox@main/666.json","name":"xc106346_666"},
 {"url":"https://fastly.jsdelivr.net/gh/benefit77/TVBoxTools@main/pg/jsm.json","name":"benefit77_jsm"},
+
 {"url":"https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/0821.json","name":"ne7359_0821"},
 {"url":"https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/0825.json","name":"ne7359_0825"},
 {"url":"https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/0826.json","name":"ne7359_0826"},
@@ -1437,6 +1473,8 @@
 {"url":"https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/dianshi.json","name":"ne7359_dianshi"},
 {"url":"https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/fty.json","name":"ne7359_fty"},
 {"url":"https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/jsm.json","name":"ne7359_jsm"},
+{"url":"https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/tools/jsm.json","name":"ne7359_jsm"},
+{"url":"https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/tools/dianshi.json","name":"ne7359_dianshi"},
 {"url":"https://fastly.jsdelivr.net/gh/ne7359/tvurl@main/xiaosa/api.json","name":"ne7359_api"},
 {"url":"https://fastly.jsdelivr.net/gh/kyp126/TVBox@main/XC.json","name":"kyp126_XC"},
 {"url":"https://fastly.jsdelivr.net/gh/kyp126/TVBox@main/茄子","name":"kyp126_茄子"},
